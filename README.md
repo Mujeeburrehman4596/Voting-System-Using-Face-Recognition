@@ -23,7 +23,7 @@ This project is a **Face Recognition Voting System** designed to ensure secure, 
 
 ## Installation
 
-    git clone https://github.com/Mujeeburrehman4596/Voting-System-Using-Face-Recognition.git
+    git clone https://github.com/Mujeeburrehman4596/Voting-System-Using-Face-Recognition
 
 
 
